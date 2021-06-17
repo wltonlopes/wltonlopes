@@ -1,10 +1,8 @@
 ### Welton dos Santos Lopes  👋
 
-<!--
-**wltonlopes/wltonlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
-- 🌱 # I am currently studying web development at Trybe school, focusing on technologies:
+- :rocket::ringed_planet: # I am currently studying web development at Trybe school, focusing on technologies:
 
    - Javascript
 
@@ -31,6 +29,6 @@
    - Algorithms and Data Structure 
 
 - 📫 Feel free to contact me.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: I'm a fan of games modding games and open source projects, always ready to help and learn more. :video_game::smile:
+- ---
