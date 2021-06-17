@@ -1,16 +1,36 @@
-### Hi there 👋
+### Welton dos Santos Lopes  👋
 
 <!--
 **wltonlopes/wltonlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 # I am currently studying web development at Trybe school, focusing on technologies:
+
+   - Javascript
+
+   - Node
+
+   - Git
+
+   - HTML
+
+   - Express.js
+
+   - Python
+
+   - CSS
+
+   - SQL
+
+   - ORM
+
+   - React
+
+   - NoSQL
+
+   - Algorithms and Data Structure 
+
+- 📫 Feel free to contact me.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
