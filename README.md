@@ -8,8 +8,8 @@
 ---
 
 - :rocket::ringed_planet: # I am currently studying web development at Trybe school, focusing on technologies:
-
-   - Javascript
+ <i class="devicon-javascript-plain colored"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
    - Node
 
