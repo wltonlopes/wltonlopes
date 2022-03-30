@@ -1,4 +1,9 @@
 ### Welton dos Santos Lopes  👋
+<div>
+ <p>
+  Meu nome é Welton Lopes sou apaixonado por tecnologia e atualmente sou Desenvolvedor FullStack estudando na Trybe!
+ </p>
+</div>
  <div>
   <a href="https://github.com/wltonlopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wltonlopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
