@@ -1,7 +1,7 @@
 ### Welton dos Santos Lopes  👋
 <div>
  <p>
-  Meu nome é Welton Lopes sou apaixonado por tecnologia e atualmente sou Desenvolvedor FullStack estudando na Trybe!
+  Meu nome é Welton Lopes sou apaixonado por tecnologia em suas diversas formas e Desenvolvedor web FullStack atualmente estudando na Trybe!
  </p>
 </div>
  <div>
@@ -12,7 +12,7 @@
 
 ---
 
-- :rocket::ringed_planet: # I am currently studying web development at Trybe school, focusing on technologies:
+- :rocket::ringed_planet: # Tecnologias que atualmente estou estudando ou ja domino:
  
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="50px"/>
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="50px"/>
@@ -32,5 +32,5 @@
 
 - 📫 Feel free to contact me.
 
-- ⚡ Fun fact: I'm a fan of games modding games and open source projects, always ready to help and learn more. :video_game::smile:
+- ⚡ Gosto muito também de ajudar em mod para a comunidade de jogos openSource. :video_game::smile:
 - ---
