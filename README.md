@@ -21,8 +21,7 @@
     <ul>
       <li>📘 Estudo Desenvolvimento na Trybe, onde atualmente estou iniciando o último módulo do curso - Ciência da Computação - e aprendendo Python.</li>
       <li>🪂 Sempre fui apaixonado por tecnologia, porém somente de um tempo descobri a área de programação web;</li>
-      <li>🇧🇷 Sou de São Paulo, SP, Brasil;</li>
- 
+      <li>🇧🇷 Sou de São Paulo, SP, Brasil;</li> 
       <li>💼 Estudando muito para criar carreira em desenvolvimento Web FullStack;</li>
       <li>⚡ Gosto muito também de ajudar em mod para a comunidade de jogos openSource. :video_game::smile: ;</li>
     <ul>
