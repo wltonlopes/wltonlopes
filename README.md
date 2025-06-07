@@ -7,7 +7,7 @@
 </p>
 <div>
  <p>
-  Meu nome é Welton Lopes sou apaixonado por tecnologia em suas diversas formas e Desenvolvedor web FullStack atualmente estudando na Trybe!
+  Meu nome é Welton Lopes sou apaixonado por tecnologia em suas diversas formas e Desenvolvedor FullStack!
  </p>
 </div>
  <div>
